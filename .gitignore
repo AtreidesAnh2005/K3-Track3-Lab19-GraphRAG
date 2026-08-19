@@ -1,0 +1,30 @@
+# Environment variables
+.env
+.env.local
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Large Datasets and data dumps (do not commit 300MB data dumps)
+*.csv
+golden_dataset.csv
+!reports/*.csv
+*.jsonl
+*.parquet
+*.pq
+
+# OS files
+.DS_Store
+Thumbs.db
