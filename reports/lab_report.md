@@ -1,6 +1,7 @@
 # Báo Cáo Thực Hành & Thuyết Minh Kỹ Thuật — Lab 19: GraphRAG vs Flat RAG
 
-**Học viên:** Nguyễn Thế Anh (AtreidesAnh2005)  
+**Học viên:** Hoàng Đức Anh  
+**MSSV:** 2A202601223  
 **Khóa học:** AICB-K34 · Track 3: GraphRAG  
 **Ngày thực hiện:** 19/08/2026  
 
